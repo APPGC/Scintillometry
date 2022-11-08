@@ -1,2 +1,3 @@
 # Scintillometry
-Scilab and python code to process scintillometer data
+
+Reader in python for Kipp and Zonen MK II scintillometer.
